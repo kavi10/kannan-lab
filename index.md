@@ -1,17 +1,3 @@
-## Lab Video
-
-<div style="text-align: center; margin: 2rem 0;">
-  <iframe 
-    width="560" 
-    height="315" 
-    src="https://www.youtube.com/watch?v=a2cNqeuWmTw" 
-    title="Lab Introduction Video" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>
-
 # kavi10's Website
 
 An engaging 1-3 sentence description of your lab.
@@ -90,3 +76,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
+
+## Lab Video
+
+<div style="text-align: center; margin: 2rem 0;">
+  <iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/YOUR_VIDEO_ID" 
+    title="Lab Introduction Video" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>
