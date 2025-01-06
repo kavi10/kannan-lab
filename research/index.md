@@ -7,14 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our team has a track record of innovation, with multiple patents and numerous peer-reviewed publications. We’ve been honored with prestigious awards such as the National Science Foundation CAREER and Unilever awards, recognizing the impact of our work. Additionally, Dr. Rangaramanujam’s leadership extends to serving on the editorial board of Nanomedicine, further contributing to the advancement of our field.
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Dendrimer-based drug and imaging conjugates: design considerations for nanomedical applications" style="rich" %}
 
 {% include section.html %}
 
