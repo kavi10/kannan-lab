@@ -1,6 +1,4 @@
 ---
----
-
 carousels:
   - images: 
     - image: images/carousel/n2.jpeg
