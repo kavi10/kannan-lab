@@ -1,6 +1,14 @@
 ---
 ---
 
+carousels:
+  - images: 
+    - image: images/carousel/n2.jpeg
+    - image: images/carousel/n3.jpeg
+    - image: images/carousel/n4.jpeg
+    - image: images/carousel/n5.jpeg
+ 
+---
 # kavi10's Website
 
 An engaging 1-3 sentence description of your lab.
