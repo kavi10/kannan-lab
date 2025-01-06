@@ -1,12 +1,17 @@
----
-carousels:
-  - images: 
-    - image: images/carousel/n2.jpeg
-    - image: images/carousel/n3.jpeg
-    - image: images/carousel/n4.jpeg
-    - image: images/carousel/n5.jpeg
- 
----
+## Lab Video
+
+<div style="text-align: center; margin: 2rem 0;">
+  <iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/watch?v=a2cNqeuWmTw" 
+    title="Lab Introduction Video" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>
+
 # kavi10's Website
 
 An engaging 1-3 sentence description of your lab.
